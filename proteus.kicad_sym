@@ -12,23 +12,187 @@
     (property "Datasheet" "" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (symbol "proteus_0_0"
+      (text "12V_MR" (at 12.7 -40.64 0)
+        (effects (font (size 1.27 1.27)))
+      )
+    )
     (symbol "proteus_0_1"
-      (rectangle (start 0 0) (end 12.7 -290.83)
+      (rectangle (start 0 0) (end 17.78 -290.83)
         (stroke (width 0.1524)) (fill (type none))
       )
       (polyline
         (pts
           (xy 0 -182.88)
-          (xy 12.7 -182.88)
+          (xy 17.78 -182.88)
         )
         (stroke (width 0.1524)) (fill (type none))
       )
       (polyline
         (pts
           (xy 0 -100.33)
-          (xy 12.7 -100.33)
+          (xy 17.78 -100.33)
         )
         (stroke (width 0.1524)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 6.35 -53.34)
+          (xy 5.08 -53.34)
+        )
+        (stroke (width 0.1524)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 6.35 -53.34)
+          (xy 8.89 -53.34)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 6.35 -48.26)
+          (xy 5.08 -48.26)
+        )
+        (stroke (width 0.1524)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 -50.8)
+          (xy 5.08 -50.8)
+        )
+        (stroke (width 0.1524)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 -50.8)
+          (xy 10.16 -50.8)
+        )
+        (stroke (width 0)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 -45.72)
+          (xy 5.08 -45.72)
+        )
+        (stroke (width 0.1524)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 8.89 -48.26)
+          (xy 12.7 -48.26)
+        )
+        (stroke (width 0.1524)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 10.16 -50.8)
+          (xy 12.7 -50.8)
+        )
+        (stroke (width 0.1524)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 10.16 -45.72)
+          (xy 12.7 -45.72)
+        )
+        (stroke (width 0.1524)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 8.89 -53.34)
+          (xy 12.7 -53.34)
+          (xy 12.7 -41.91)
+        )
+        (stroke (width 0.1524)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 6.35 -54.61)
+          (xy 6.35 -52.07)
+          (xy 8.89 -53.34)
+          (xy 6.35 -54.61)
+        )
+        (stroke (width 0.254)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 6.35 -49.53)
+          (xy 6.35 -46.99)
+          (xy 8.89 -48.26)
+          (xy 6.35 -49.53)
+        )
+        (stroke (width 0.254)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 -52.07)
+          (xy 7.62 -49.53)
+          (xy 10.16 -50.8)
+          (xy 7.62 -52.07)
+        )
+        (stroke (width 0.254)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 -46.99)
+          (xy 7.62 -44.45)
+          (xy 10.16 -45.72)
+          (xy 7.62 -46.99)
+        )
+        (stroke (width 0.254)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 9.525 -53.975)
+          (xy 9.525 -54.61)
+          (xy 8.89 -54.61)
+          (xy 8.89 -52.07)
+          (xy 8.255 -52.07)
+          (xy 8.255 -52.705)
+        )
+        (stroke (width 0.254)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 9.525 -48.895)
+          (xy 9.525 -49.53)
+          (xy 8.89 -49.53)
+          (xy 8.89 -46.99)
+          (xy 8.255 -46.99)
+          (xy 8.255 -47.625)
+        )
+        (stroke (width 0.254)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 10.795 -51.435)
+          (xy 10.795 -52.07)
+          (xy 10.16 -52.07)
+          (xy 10.16 -49.53)
+          (xy 9.525 -49.53)
+          (xy 9.525 -50.165)
+        )
+        (stroke (width 0.254)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 10.795 -46.355)
+          (xy 10.795 -46.99)
+          (xy 10.16 -46.99)
+          (xy 10.16 -44.45)
+          (xy 9.525 -44.45)
+          (xy 9.525 -45.085)
+        )
+        (stroke (width 0.254)) (fill (type none))
+      )
+    )
+    (symbol "proteus_1_0"
+      (text " DNP" (at 6.35 -48.26 0)
+        (effects (font (size 0.4 0.4)) (justify left))
+      )
+      (text " DNP" (at 7.62 -45.72 0)
+        (effects (font (size 0.4 0.4)) (justify left))
       )
     )
     (symbol "proteus_1_1"
@@ -192,8 +356,8 @@
         (name "VR1-" (effects (font (size 1.27 1.27))))
         (number "B13" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at -5.08 -158.75 0) (length 5.08)
-        (name "reserved" (effects (font (size 1.27 1.27))))
+      (pin passive line (at -5.08 -173.99 0) (length 5.08)
+        (name "GND" (effects (font (size 1.27 1.27))))
         (number "B14" (effects (font (size 1.27 1.27))))
       )
       (pin passive line (at -5.08 -143.51 0) (length 5.08)
@@ -208,7 +372,7 @@
         (name "CAN+" (effects (font (size 1.27 1.27))))
         (number "B17" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at -5.08 -168.91 0) (length 5.08)
+      (pin passive line (at -5.08 -166.37 0) (length 5.08)
         (name "12V_IGN" (effects (font (size 1.27 1.27))))
         (number "B18" (effects (font (size 1.27 1.27))))
       )
@@ -224,15 +388,15 @@
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "B20" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at -5.08 -163.83 0) (length 5.08)
-        (name "reserved" (effects (font (size 1.27 1.27))))
+      (pin passive line (at -5.08 -161.29 0) (length 5.08)
+        (name "CAN2-" (effects (font (size 1.27 1.27))))
         (number "B21" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at -5.08 -161.29 0) (length 5.08)
-        (name "reserved" (effects (font (size 1.27 1.27))))
+      (pin passive line (at -5.08 -158.75 0) (length 5.08)
+        (name "CAN2+" (effects (font (size 1.27 1.27))))
         (number "B22" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at -5.08 -171.45 0) (length 5.08)
+      (pin passive line (at -5.08 -168.91 0) (length 5.08)
         (name "12V_MR" (effects (font (size 1.27 1.27))))
         (number "B23" (effects (font (size 1.27 1.27))))
       )
