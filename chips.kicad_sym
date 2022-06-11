@@ -6,7 +6,7 @@
     (property "Value" "MC33816" (id 1) (at 0 1.27 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "Package_QFP:LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias" (id 2) (at 10.16 3.81 90)
+    (property "Footprint" "kicad6-libraries:LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm_ThermalVias" (id 2) (at 10.16 3.81 90)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0)
