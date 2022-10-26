@@ -1,9 +1,9 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-  (symbol "+12V_MAIN" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+  (symbol "+12V_MAIN_RELAY" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "#PWR" (id 0) (at 0 -3.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+12V_MAIN" (id 1) (at 0 3.81 0)
+    (property "Value" "+12V_MAIN_RELAY" (id 1) (at 0 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at 0 0 0)
@@ -15,10 +15,10 @@
     (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "Power symbol creates a global label with name \"+12V_MAIN\"" (id 5) (at 0 0 0)
+    (property "ki_description" "Power symbol creates a global label with name \"+12V_MAIN_RELAY\"" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "+12V_MAIN_0_1"
+    (symbol "+12V_MAIN_RELAY_0_1"
       (polyline
         (pts
           (xy -0.762 1.27)
@@ -44,9 +44,9 @@
         (fill (type none))
       )
     )
-    (symbol "+12V_MAIN_1_1"
+    (symbol "+12V_MAIN_RELAY_1_1"
       (pin power_in line (at 0 0 90) (length 0) hide
-        (name "+12V_MAIN" (effects (font (size 1.27 1.27))))
+        (name "+12V_MAIN_RELAY" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
     )
