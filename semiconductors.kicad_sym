@@ -153,7 +153,7 @@
         (name "D" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
       )
-      (pin output line (at 6.35 -1.27 180) (length 2.54)
+      (pin power_in line (at 6.35 -1.27 180) (length 2.54)
         (name "S" (effects (font (size 1.27 1.27))))
         (number "3" (effects (font (size 1.27 1.27))))
       )
