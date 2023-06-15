@@ -261,7 +261,7 @@
     (solder_mask_margin 0.05) (tstamp 273c0b90-148e-45a8-8f6f-2c2ab53b725e))
   (pad "24" thru_hole oval (at 25.5 -8 270) (size 2.8 2.3) (drill 1.5) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.05) (tstamp 15c8e6a7-cb59-4ed8-b747-f6ea5a2d863e))
-  (model "C:/Work/rusefi/github/rusefi-hardware/ext/kicad6-libraries/33311-24AW-2.STEP"
+  (model "${KIPRJMOD}/kicad6-libraries/33311-24AW-2.STEP"
     (offset (xyz 113 116.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -180 -180 0))
