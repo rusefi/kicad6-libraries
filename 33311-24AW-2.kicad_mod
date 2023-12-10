@@ -261,9 +261,9 @@
     (solder_mask_margin 0.05) (tstamp 78f3969f-f28b-46b1-a3ba-b47f6b722bf8))
   (pad "24" thru_hole oval (at 25.25 -8.2 270) (size 3.2 2.7) (drill oval 1.9) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.05) (tstamp 919f68d6-d6e4-4ab1-a333-87f48869f707))
-  (model "${KIPRJMOD}/33311-24AW-2.STEP"
-    (offset (xyz -0.15 0 0))
+  (model "${KIPRJMOD}/kicad6-libraries/33311-24AW-2.STEP"
+    (offset (xyz 112.75 116.5 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 -180))
   )
 )
