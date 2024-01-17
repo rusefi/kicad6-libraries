@@ -13,6 +13,54 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "UAEFI_BRD_0_1"
+      (polyline
+        (pts
+          (xy 7.62 -198.12)
+          (xy 25.4 -198.12)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 -182.88)
+          (xy 25.4 -182.88)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 -165.1)
+          (xy 25.4 -165.1)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 -121.92)
+          (xy 25.4 -121.92)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 -68.58)
+          (xy 25.4 -68.58)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 -20.32)
+          (xy 25.4 -20.32)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
       (rectangle (start 7.62 2.54) (end 25.4 -205.74)
         (stroke (width 0) (type default))
         (fill (type none))
