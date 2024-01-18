@@ -2,7 +2,7 @@
 #
 #
 
-name: Update kicad6-library Reference
+name: Update kicad6-libraries Reference
 
 on:
   workflow_call:
@@ -28,7 +28,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub git kicad6-libraries update Action"
-          git add kicad6-library
+          git add kicad6-libraries
           OUT=$(git commit -am "GHA says update kicad6-libraries" 2>&1) || echo "commit failed, finding out why"
           if echo "$OUT" | grep 'nothing to commit'; then
             echo "hellen-one: looks like nothing to commit"
