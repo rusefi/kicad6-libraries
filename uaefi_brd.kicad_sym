@@ -16,7 +16,7 @@
       (polyline
         (pts
           (xy 7.62 -198.12)
-          (xy 25.4 -198.12)
+          (xy 43.18 -198.12)
         )
         (stroke (width 0) (type default))
         (fill (type none))
@@ -24,7 +24,7 @@
       (polyline
         (pts
           (xy 7.62 -182.88)
-          (xy 25.4 -182.88)
+          (xy 43.18 -182.88)
         )
         (stroke (width 0) (type default))
         (fill (type none))
@@ -32,7 +32,7 @@
       (polyline
         (pts
           (xy 7.62 -165.1)
-          (xy 25.4 -165.1)
+          (xy 43.18 -165.1)
         )
         (stroke (width 0) (type default))
         (fill (type none))
@@ -40,7 +40,7 @@
       (polyline
         (pts
           (xy 7.62 -121.92)
-          (xy 25.4 -121.92)
+          (xy 43.18 -121.92)
         )
         (stroke (width 0) (type default))
         (fill (type none))
@@ -48,7 +48,7 @@
       (polyline
         (pts
           (xy 7.62 -68.58)
-          (xy 25.4 -68.58)
+          (xy 43.18 -68.58)
         )
         (stroke (width 0) (type default))
         (fill (type none))
@@ -56,12 +56,12 @@
       (polyline
         (pts
           (xy 7.62 -20.32)
-          (xy 25.4 -20.32)
+          (xy 43.18 -20.32)
         )
         (stroke (width 0) (type default))
         (fill (type none))
       )
-      (rectangle (start 7.62 2.54) (end 25.4 -205.74)
+      (rectangle (start 7.62 2.54) (end 43.18 -205.74)
         (stroke (width 0) (type default))
         (fill (type none))
       )
@@ -209,6 +209,27 @@
       )
     )
     (symbol "UAEFI_BRD_1_1"
+      (text "CAM1" (at 27.94 -81.28 0)
+        (effects (font (size 1.27 1.27) (color 13 14 255 1)))
+      )
+      (text "CAM2" (at 27.94 -83.82 0)
+        (effects (font (size 1.27 1.27) (color 13 14 255 1)))
+      )
+      (text "Fan Relay" (at 30.48 -40.64 0)
+        (effects (font (size 1.27 1.27) (color 13 14 255 1)))
+      )
+      (text "Fuel Pump Relay" (at 33.02 -60.96 0)
+        (effects (font (size 1.27 1.27) (color 13 14 255 1)))
+      )
+      (text "Idle Air Valve" (at 31.75 -66.04 0)
+        (effects (font (size 1.27 1.27) (color 13 14 255 1)))
+      )
+      (text "Main Relay" (at 30.48 -43.18 0)
+        (effects (font (size 1.27 1.27) (color 13 14 255 1)))
+      )
+      (text "VVT1" (at 27.94 -38.1 0)
+        (effects (font (size 1.27 1.27) (color 13 14 255 1)))
+      )
       (pin passive line (at 0 0 0) (length 7.62)
         (name "OUT_DC1" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))
