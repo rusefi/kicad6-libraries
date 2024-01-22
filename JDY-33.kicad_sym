@@ -21,6 +21,9 @@
     (property "STANDARD" "Manufacturer Recommendations" (at 0 0 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
+    (property "LCSC" "C9900001612" (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (symbol "JDY-33_0_1"
       (rectangle (start 0 11.938) (end 17.78 -17.78)
         (stroke (width 0.254) (type default))
