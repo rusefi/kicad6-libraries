@@ -1635,7 +1635,7 @@
 	)
 	(fp_poly
 		(pts
-			(xy 6.5 -13.9) (xy 6.5 -6.9) (xy -6.5 -6.9) (xy -6.5 -13.9)
+			(xy 6.1 -13.6) (xy 6.1 -6.9) (xy -6.1 -6.9) (xy -6.1 -13.6)
 		)
 		(stroke
 			(width 0.12)
@@ -1645,53 +1645,16 @@
 		(layer "B.Mask")
 		(uuid "efca2809-2036-46b8-8545-a5bdd08b5301")
 	)
-	(fp_poly
-		(pts
-			(xy 6.5 -13.9) (xy 6.5 -6.9) (xy -6.5 -6.9) (xy -6.5 -13.9)
-		)
+	(fp_rect
+		(start -6.1 -13.6)
+		(end 6.1 -6.9)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
 		(fill solid)
 		(layer "F.Mask")
-		(uuid "32ad7fbe-e026-4d57-9f6b-f4af30c894d9")
-	)
-	(fp_poly
-		(pts
-			(xy -6.35 -13.85) (xy 6.35 -13.85) (xy 6.35 -6.95) (xy -6.35 -6.95)
-		)
-		(stroke
-			(width 0.01)
-			(type solid)
-		)
-		(fill solid)
-		(layer "Dwgs.User")
-		(uuid "9dab0cb7-2557-4419-963b-5ae736517f62")
-	)
-	(fp_poly
-		(pts
-			(xy -6.35 -13.85) (xy 6.35 -13.85) (xy 6.35 -6.95) (xy -6.35 -6.95)
-		)
-		(stroke
-			(width 0.01)
-			(type solid)
-		)
-		(fill solid)
-		(layer "Dwgs.User")
-		(uuid "dabe541b-b164-4180-97a4-5ca761b86800")
-	)
-	(fp_poly
-		(pts
-			(xy -6.35 -13.85) (xy 6.35 -13.85) (xy 6.35 -6.95) (xy -6.35 -6.95)
-		)
-		(stroke
-			(width 0.01)
-			(type solid)
-		)
-		(fill solid)
-		(layer "Dwgs.User")
-		(uuid "e12e827e-36be-4503-8eef-6fc7e8bc5d49")
+		(uuid "cf5fa1d7-4d54-41c3-9b28-d59c88faabf3")
 	)
 	(fp_line
 		(start -7.25 -14.075)
@@ -1985,7 +1948,7 @@
 	(zone
 		(net 0)
 		(net_name "")
-		(layer "B.Cu")
+		(layers "*.Cu")
 		(uuid "6ae637ec-7362-4a65-97c0-20e6d5770fa2")
 		(name "Bluetooth keepout bottom")
 		(hatch edge 0.508)

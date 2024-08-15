@@ -34,6 +34,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -46,6 +47,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -58,6 +60,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -233,7 +236,34 @@
 		(uuid "336f9b6a-a1dc-411a-a25c-4d75290f9e58")
 	)
 	(fp_text user "G\nG\n+\n-\nV"
-		(at -0.65 -2.825 -90)
+		(at -0.3 -1.9 -90)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "5f7f3794-ccdb-4f2f-9ad5-5dede32933be")
+		(effects
+			(font
+				(size 1.4 1.4)
+				(thickness 0.2)
+			)
+			(justify bottom mirror)
+		)
+	)
+	(fp_text user "BLACK"
+		(at 11 2 -90)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "e0046713-fe6b-414a-8f98-0320fe524137")
+		(effects
+			(font
+				(size 1.1 1.1)
+				(thickness 0.17)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(fp_text user "G\nG\n+\n-\nV"
+		(at -0.3 -1.9 -90)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "53c9b346-a3d7-41a7-a211-90d10b2af694")
@@ -242,7 +272,7 @@
 				(size 1.4 1.4)
 				(thickness 0.2)
 			)
-			(justify left bottom)
+			(justify bottom)
 		)
 	)
 	(fp_text user "BLACK"
