@@ -66,12 +66,13 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7501123"
+		(property "LCSC" "C9900074432"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(symbol "6473423-1_1_0"
