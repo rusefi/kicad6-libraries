@@ -67,7 +67,7 @@
 			)
 		)
 		(property "LCSC" "C9900074432"
-			(at 0 0 0)
+			(at 26.67 1.524 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -79,7 +79,7 @@
 			(pin passive line
 				(at 0 0 0)
 				(length 5.08)
-				(name "1B"
+				(name "1"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -97,7 +97,7 @@
 			(pin passive line
 				(at 0 -25.4 0)
 				(length 5.08)
-				(name "10B"
+				(name "10"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -115,7 +115,7 @@
 			(pin passive line
 				(at 0 -27.94 0)
 				(length 5.08)
-				(name "11B"
+				(name "11"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -133,7 +133,7 @@
 			(pin passive line
 				(at 0 -30.48 0)
 				(length 5.08)
-				(name "12B"
+				(name "12"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -151,7 +151,7 @@
 			(pin passive line
 				(at 0 -33.02 0)
 				(length 5.08)
-				(name "13B"
+				(name "13"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -169,7 +169,7 @@
 			(pin passive line
 				(at 0 -38.1 0)
 				(length 5.08)
-				(name "14B"
+				(name "14"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -187,7 +187,7 @@
 			(pin passive line
 				(at 0 -40.64 0)
 				(length 5.08)
-				(name "15B"
+				(name "15"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -205,7 +205,7 @@
 			(pin passive line
 				(at 0 -43.18 0)
 				(length 5.08)
-				(name "16B"
+				(name "16"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -223,7 +223,7 @@
 			(pin passive line
 				(at 0 -45.72 0)
 				(length 5.08)
-				(name "17B"
+				(name "17"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -241,7 +241,7 @@
 			(pin passive line
 				(at 0 -48.26 0)
 				(length 5.08)
-				(name "18B"
+				(name "18"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -259,7 +259,7 @@
 			(pin passive line
 				(at 0 -50.8 0)
 				(length 5.08)
-				(name "19B"
+				(name "19"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -277,7 +277,7 @@
 			(pin passive line
 				(at 0 -2.54 0)
 				(length 5.08)
-				(name "2B"
+				(name "2"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -295,7 +295,7 @@
 			(pin passive line
 				(at 0 -55.88 0)
 				(length 5.08)
-				(name "20B"
+				(name "20"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -313,7 +313,7 @@
 			(pin passive line
 				(at 0 -58.42 0)
 				(length 5.08)
-				(name "21B"
+				(name "21"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -331,7 +331,7 @@
 			(pin passive line
 				(at 0 -60.96 0)
 				(length 5.08)
-				(name "22B"
+				(name "22"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -349,7 +349,7 @@
 			(pin passive line
 				(at 0 -63.5 0)
 				(length 5.08)
-				(name "23B"
+				(name "23"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -367,7 +367,7 @@
 			(pin passive line
 				(at 0 -66.04 0)
 				(length 5.08)
-				(name "24B"
+				(name "24"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -385,7 +385,7 @@
 			(pin passive line
 				(at 0 -68.58 0)
 				(length 5.08)
-				(name "25B"
+				(name "25"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -403,7 +403,7 @@
 			(pin passive line
 				(at 0 -71.12 0)
 				(length 5.08)
-				(name "26B"
+				(name "26"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -421,7 +421,7 @@
 			(pin passive line
 				(at 0 -5.08 0)
 				(length 5.08)
-				(name "3B"
+				(name "3"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -439,7 +439,7 @@
 			(pin passive line
 				(at 0 -7.62 0)
 				(length 5.08)
-				(name "4B"
+				(name "4"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -457,7 +457,7 @@
 			(pin passive line
 				(at 0 -10.16 0)
 				(length 5.08)
-				(name "5B"
+				(name "5"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -475,7 +475,7 @@
 			(pin passive line
 				(at 0 -12.7 0)
 				(length 5.08)
-				(name "6B"
+				(name "6"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -493,7 +493,7 @@
 			(pin passive line
 				(at 0 -15.24 0)
 				(length 5.08)
-				(name "7B"
+				(name "7"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -511,7 +511,7 @@
 			(pin passive line
 				(at 0 -20.32 0)
 				(length 5.08)
-				(name "8B"
+				(name "8"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -529,7 +529,7 @@
 			(pin passive line
 				(at 0 -22.86 0)
 				(length 5.08)
-				(name "9B"
+				(name "9"
 					(effects
 						(font
 							(size 1.016 1.016)
