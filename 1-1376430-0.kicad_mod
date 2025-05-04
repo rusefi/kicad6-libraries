@@ -1960,4 +1960,15 @@
 		(remove_unused_layers no)
 		(uuid "0ed1ef38-4850-49f8-8b58-1e562d2c67b3")
 	)
+	(model "${KIPRJMOD}/kicad6-libraries/3d/c-1-1376430-0-y-3d.stp"
+		(offset
+			(xyz 34.7 -52.35 11)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -90)
+		)
+	)
 )
