@@ -341,4 +341,15 @@
 		(remove_unused_layers no)
 		(uuid "cee3d411-29df-45aa-8a07-9dd0af400516")
 	)
+	(model "${KIPRJMOD}/kicad6-libraries/Jack_5pin_.stp"
+		(offset
+			(xyz -2 -1.3 6.7)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
 )
