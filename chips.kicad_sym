@@ -91,17 +91,6 @@
 					(type background)
 				)
 			)
-			(rectangle
-				(start 67.31 -2.54)
-				(end 67.31 -2.54)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
 		)
 		(symbol "ADS7128_1_1"
 			(pin input line
