@@ -2839,24 +2839,6 @@
 					)
 				)
 			)
-			(pin no_connect line
-				(at -20.32 -17.78 0)
-				(length 5.08) hide
-				(name "NC"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "19"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
 			(pin input line
 				(at -20.32 10.16 0)
 				(length 5.08)
@@ -3030,6 +3012,26 @@
 					)
 				)
 				(number "9"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+		)
+		(symbol "LT3751EFE_1_0"
+			(pin no_connect line
+				(at -20.32 -20.32 0)
+				(length 5.08)
+				(name "NC"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "19"
 					(effects
 						(font
 							(size 1.016 1.016)
