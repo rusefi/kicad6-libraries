@@ -124,15 +124,4 @@
 		(thermal_bridge_angle 0)
 		(uuid "003bd48b-b119-4f54-abd1-0faef5d250b3")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Axial_L17.0mm_D7.0mm_P20.00mm_Horizontal.wrl"
-		(offset
-			(xyz 0 0 0)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
 )
