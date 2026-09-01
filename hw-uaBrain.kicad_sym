@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad6:hw-uaBrain"
+		(property "Footprint" "kicad6-libraries:hw-uaBrain"
 			(at 0 0 0)
 			(effects
 				(font
