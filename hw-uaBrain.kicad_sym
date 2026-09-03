@@ -58,7 +58,7 @@
 			)
 		)
 		(symbol "hw-uaBrain_1_0"
-			(text "LEFT"
+			(text "RIGHT"
 				(at -3.048 1.27 0)
 				(effects
 					(font
@@ -1383,7 +1383,7 @@
 			(pin passive line
 				(at -7.62 -111.76 0)
 				(length 7.62)
-				(name "GND"
+				(name "GNDA"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1544,7 +1544,7 @@
 			)
 		)
 		(symbol "hw-uaBrain_3_0"
-			(text "RIGHT"
+			(text "LEFT"
 				(at -3.302 1.27 0)
 				(effects
 					(font
