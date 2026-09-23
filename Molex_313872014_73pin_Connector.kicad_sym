@@ -327,7 +327,7 @@
     (property "Value" "Molex_313872014_singleside" (id 1) (at 6.35 6.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "rusefi_lib_private:Molex_313872014_73pin_Connector" (id 2) (at 0 0 0)
+    (property "Footprint" "kicad6-libraries:Molex_313872014_73pin_Connector" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 12.7 0 0)
