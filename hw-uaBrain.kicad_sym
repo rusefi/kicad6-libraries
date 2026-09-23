@@ -1658,7 +1658,7 @@
 			(pin passive line
 				(at -7.62 -15.24 0)
 				(length 7.62)
-				(name "+3.3V"
+				(name "SDA"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1694,7 +1694,7 @@
 			(pin passive line
 				(at -7.62 -20.32 0)
 				(length 7.62)
-				(name "+5V"
+				(name "SCL"
 					(effects
 						(font
 							(size 1.27 1.27)
